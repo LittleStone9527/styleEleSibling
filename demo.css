@@ -1,0 +1,10 @@
+/*原来的样式*/
+.style1{
+	font-weight: bolder;
+	font-size: 1.5em;
+	color: blue;
+}
+/*追加的样式*/
+.style2{
+	background-color: green;
+}
